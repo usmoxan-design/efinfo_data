@@ -1,172 +1,835 @@
 [
-  {
-    "name": "Johan Cruyff",
-    "fullName": "Johan Cruyff",
-    "team": "Free agent",
-    "nationality": "",
-    "type": "Default",
-    "age": "",
-    "coachingAffinity": "None",
-    "teamPlaystyle": {
-      "Possession Game": 89,
-      "Quick Counter": 67,
-      "Long Ball Counter": 54,
-      "Out Wide": 81,
-      "Long Ball": 43
+    {
+        "name": "Johan Cruyff",
+        "fullName": "",
+        "team": "Free",
+        "nationality": "",
+        "type": "Default",
+        "age": "",
+        "coachingAffinity": "None",
+        "teamPlaystyle": {
+            "Possession Game": 89,
+            "Quick Counter": 67,
+            "Long Ball Counter": 54,
+            "Out Wide": 81,
+            "Long Ball": 43
+        },
+        "imageUrl": ""
     },
-    "imageUrl": ""
-  },
-  {
-    "name": "Ståle Solbakken",
-    "fullName": "Ståle Solbakken",
-    "team": "Free agent",
-    "nationality": "",
-    "type": "Default",
-    "age": "",
-    "coachingAffinity": "None",
-    "teamPlaystyle": {
-      "Possession Game": 47,
-      "Quick Counter": 56,
-      "Long Ball Counter": 64,
-      "Out Wide": 89,
-      "Long Ball": 80
+    {
+        "name": "Ståle Solbakken",
+        "fullName": "",
+        "team": "Free",
+        "nationality": "",
+        "type": "Default",
+        "age": "",
+        "coachingAffinity": "None",
+        "teamPlaystyle": {
+            "Possession Game": 47,
+            "Quick Counter": 56,
+            "Long Ball Counter": 64,
+            "Out Wide": 89,
+            "Long Ball": 80
+        },
+        "imageUrl": ""
     },
-    "imageUrl": ""
-  },
-  {
-    "name": "Rudi Garcia",
-    "fullName": "Rudi Garcia",
-    "team": "Free agent",
-    "nationality": "",
-    "type": "Default",
-    "age": "",
-    "coachingAffinity": "None",
-    "teamPlaystyle": {
-      "Possession Game": 52,
-      "Quick Counter": 89,
-      "Long Ball Counter": 58,
-      "Out Wide": 80,
-      "Long Ball": 69
+    {
+        "name": "Rudi Garcia",
+        "fullName": "",
+        "team": "Free",
+        "nationality": "",
+        "type": "Default",
+        "age": "",
+        "coachingAffinity": "None",
+        "teamPlaystyle": {
+            "Possession Game": 52,
+            "Quick Counter": 89,
+            "Long Ball Counter": 58,
+            "Out Wide": 80,
+            "Long Ball": 69
+        },
+        "imageUrl": ""
     },
-    "imageUrl": ""
-  },
-  {
-    "name": "L. Spalletti",
-    "fullName": "Luciano Spalletti",
-    "team": "Free agent",
-    "nationality": "",
-    "type": "Default",
-    "age": "",
-    "coachingAffinity": "None",
-    "teamPlaystyle": {
-      "Possession Game": 82,
-      "Quick Counter": 56,
-      "Long Ball Counter": 89,
-      "Out Wide": 61,
-      "Long Ball": 46
+    {
+        "name": "L. Spalletti",
+        "fullName": "L. Spalletti",
+        "team": "Free",
+        "nationality": "",
+        "type": "Default",
+        "age": "",
+        "coachingAffinity": "None",
+        "teamPlaystyle": {
+            "Possession Game": 82,
+            "Quick Counter": 56,
+            "Long Ball Counter": 89,
+            "Out Wide": 61,
+            "Long Ball": 46
+        },
+        "imageUrl": ""
     },
-    "imageUrl": ""
-  },
-  {
-    "name": "José Mourinho",
-    "fullName": "José Mourinho",
-    "team": "Free agent",
-    "nationality": "",
-    "type": "Default",
-    "age": "",
-    "coachingAffinity": "Veteran Players",
-    "teamPlaystyle": {
-      "Possession Game": 59,
-      "Quick Counter": 89,
-      "Long Ball Counter": 62,
-      "Out Wide": 68,
-      "Long Ball": 80
+    {
+        "name": "F. Beckenbauer",
+        "fullName": "F. Beckenbauer",
+        "team": "Free",
+        "nationality": "",
+        "type": "Default",
+        "age": "",
+        "coachingAffinity": "None",
+        "teamPlaystyle": {
+            "Possession Game": 53,
+            "Quick Counter": 67,
+            "Long Ball Counter": 80,
+            "Out Wide": 54,
+            "Long Ball": 89
+        },
+        "imageUrl": ""
     },
-    "imageUrl": ""
-  },
-  {
-    "name": "Pep Guardiola",
-    "fullName": "Pep Guardiola",
-    "team": "Free agent",
-    "nationality": "",
-    "type": "Default",
-    "age": "",
-    "coachingAffinity": "Star Players",
-    "teamPlaystyle": {
-      "Possession Game": 89,
-      "Quick Counter": 63,
-      "Long Ball Counter": 54,
-      "Out Wide": 89,
-      "Long Ball": 51
+    {
+        "name": "Okan Buruk",
+        "fullName": "",
+        "team": "Free",
+        "nationality": "",
+        "type": "Default",
+        "age": "",
+        "coachingAffinity": "None",
+        "teamPlaystyle": {
+            "Possession Game": 55,
+            "Quick Counter": 80,
+            "Long Ball Counter": 43,
+            "Out Wide": 89,
+            "Long Ball": 63
+        },
+        "imageUrl": ""
     },
-    "imageUrl": ""
-  },
-  {
-    "name": "Hansi Flick",
-    "fullName": "Hansi Flick",
-    "team": "Free agent",
-    "nationality": "",
-    "type": "Default",
-    "age": "",
-    "coachingAffinity": "FW Players",
-    "teamPlaystyle": {
-      "Possession Game": 89,
-      "Quick Counter": 88,
-      "Long Ball Counter": 69,
-      "Out Wide": 57,
-      "Long Ball": 45
+    {
+        "name": "R. Martínez",
+        "fullName": "R. Martínez",
+        "team": "Free",
+        "nationality": "",
+        "type": "Default",
+        "age": "",
+        "coachingAffinity": "None",
+        "teamPlaystyle": {
+            "Possession Game": 64,
+            "Quick Counter": 46,
+            "Long Ball Counter": 89,
+            "Out Wide": 80,
+            "Long Ball": 53
+        },
+        "imageUrl": ""
     },
-    "imageUrl": ""
-  },
-  {
-    "name": "Daniel Piscopo",
-    "fullName": "Daniel Piscopo",
-    "team": "Free agent",
-    "nationality": "",
-    "type": "Default",
-    "age": "",
-    "coachingAffinity": "None",
-    "teamPlaystyle": {
-      "Possession Game": 88,
-      "Quick Counter": 88,
-      "Long Ball Counter": 88,
-      "Out Wide": 88,
-      "Long Ball": 88
+    {
+        "name": "P. Kluivert",
+        "fullName": "P. Kluivert",
+        "team": "Free",
+        "nationality": "",
+        "type": "Default",
+        "age": "",
+        "coachingAffinity": "None",
+        "teamPlaystyle": {
+            "Possession Game": 89,
+            "Quick Counter": 80,
+            "Long Ball Counter": 64,
+            "Out Wide": 51,
+            "Long Ball": 48
+        },
+        "imageUrl": ""
     },
-    "imageUrl": ""
-  },
-  {
-    "name": "Fred Arterton",
-    "fullName": "Fred Arterton",
-    "team": "Free agent",
-    "nationality": "",
-    "type": "Default",
-    "age": "",
-    "coachingAffinity": "None",
-    "teamPlaystyle": {
-      "Possession Game": 88,
-      "Quick Counter": 88,
-      "Long Ball Counter": 88,
-      "Out Wide": 88,
-      "Long Ball": 88
+    {
+        "name": "José Mourinho",
+        "fullName": "José Mourinho",
+        "team": "Free",
+        "nationality": "",
+        "type": "Default",
+        "age": "",
+        "coachingAffinity": "Veteran Players",
+        "teamPlaystyle": {
+            "Possession Game": 59,
+            "Quick Counter": 89,
+            "Long Ball Counter": 62,
+            "Out Wide": 68,
+            "Long Ball": 80
+        },
+        "imageUrl": ""
     },
-    "imageUrl": ""
-  },
-  {
-    "name": "Olympio H.",
-    "fullName": "Olympio H.",
-    "team": "Free agent",
-    "nationality": "",
-    "type": "Default",
-    "age": "",
-    "coachingAffinity": "None",
-    "teamPlaystyle": {
-      "Possession Game": 67,
-      "Quick Counter": 87,
-      "Long Ball Counter": 52,
-      "Out Wide": 45,
-      "Long Ball": 86
+    {
+        "name": "Fabio Capello",
+        "fullName": "Fabio Capello",
+        "team": "Free",
+        "nationality": "",
+        "type": "Default",
+        "age": "",
+        "coachingAffinity": "MF Players",
+        "teamPlaystyle": {
+            "Possession Game": 46,
+            "Quick Counter": 57,
+            "Long Ball Counter": 89,
+            "Out Wide": 64,
+            "Long Ball": 89
+        },
+        "imageUrl": ""
     },
-    "imageUrl": ""
-  }
+    {
+        "name": "Frank Rijkaard",
+        "fullName": "Frank Rijkaard",
+        "team": "Free",
+        "nationality": "",
+        "type": "Default",
+        "age": "",
+        "coachingAffinity": "DF Players",
+        "teamPlaystyle": {
+            "Possession Game": 70,
+            "Quick Counter": 89,
+            "Long Ball Counter": 48,
+            "Out Wide": 89,
+            "Long Ball": 46
+        },
+        "imageUrl": ""
+    },
+    {
+        "name": "Pep Guardiola",
+        "fullName": "Pep Guardiola",
+        "team": "Free",
+        "nationality": "",
+        "type": "Default",
+        "age": "",
+        "coachingAffinity": "Star Players",
+        "teamPlaystyle": {
+            "Possession Game": 89,
+            "Quick Counter": 63,
+            "Long Ball Counter": 54,
+            "Out Wide": 89,
+            "Long Ball": 51
+        },
+        "imageUrl": ""
+    },
+    {
+        "name": "Ruben Amorim",
+        "fullName": "Ruben Amorim",
+        "team": "Free",
+        "nationality": "",
+        "type": "Default",
+        "age": "",
+        "coachingAffinity": "Young Players",
+        "teamPlaystyle": {
+            "Possession Game": 62,
+            "Quick Counter": 81,
+            "Long Ball Counter": 54,
+            "Out Wide": 89,
+            "Long Ball": 46
+        },
+        "imageUrl": ""
+    },
+    {
+        "name": "Hansi Flick",
+        "fullName": "Hansi Flick",
+        "team": "Free",
+        "nationality": "",
+        "type": "Default",
+        "age": "",
+        "coachingAffinity": "FW Players",
+        "teamPlaystyle": {
+            "Possession Game": 89,
+            "Quick Counter": 88,
+            "Long Ball Counter": 69,
+            "Out Wide": 57,
+            "Long Ball": 45
+        },
+        "imageUrl": ""
+    },
+    {
+        "name": "Mikel Arteta",
+        "fullName": "Mikel Arteta",
+        "team": "Free",
+        "nationality": "",
+        "type": "Default",
+        "age": "",
+        "coachingAffinity": "None",
+        "teamPlaystyle": {
+            "Possession Game": 89,
+            "Quick Counter": 64,
+            "Long Ball Counter": 88,
+            "Out Wide": 57,
+            "Long Ball": 54
+        },
+        "imageUrl": ""
+    },
+    {
+        "name": "Cesc Fàbregas",
+        "fullName": "Cesc Fàbregas",
+        "team": "Free",
+        "nationality": "",
+        "type": "Default",
+        "age": "",
+        "coachingAffinity": "None",
+        "teamPlaystyle": {
+            "Possession Game": 89,
+            "Quick Counter": 65,
+            "Long Ball Counter": 56,
+            "Out Wide": 68,
+            "Long Ball": 57
+        },
+        "imageUrl": ""
+    },
+    {
+        "name": "Ronald Koeman",
+        "fullName": "Ronald Koeman",
+        "team": "Free",
+        "nationality": "",
+        "type": "Default",
+        "age": "",
+        "coachingAffinity": "Veteran Players",
+        "teamPlaystyle": {
+            "Possession Game": 89,
+            "Quick Counter": 88,
+            "Long Ball Counter": 55,
+            "Out Wide": 68,
+            "Long Ball": 61
+        },
+        "imageUrl": ""
+    },
+    {
+        "name": "Gennaro Gattuso",
+        "fullName": "Gennaro Gattuso",
+        "team": "Free",
+        "nationality": "",
+        "type": "Default",
+        "age": "",
+        "coachingAffinity": "FW Players",
+        "teamPlaystyle": {
+            "Possession Game": 53,
+            "Quick Counter": 65,
+            "Long Ball Counter": 57,
+            "Out Wide": 89,
+            "Long Ball": 71
+        },
+        "imageUrl": ""
+    },
+    {
+        "name": "Pep Guardiola",
+        "fullName": "Pep Guardiola",
+        "team": "Free",
+        "nationality": "Spain",
+        "type": "Default",
+        "age": 59,
+        "coachingAffinity": "None",
+        "teamPlaystyle": {
+            "Possession Game": 88,
+            "Quick Counter": 74,
+            "Long Ball Counter": 37,
+            "Out Wide": 68,
+            "Long Ball": 32
+        },
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Image_created_with_a_mobile_phone.png/250px-Image_created_with_a_mobile_phone.png"
+    },
+    {
+        "name": "Xabi Alonso",
+        "fullName": "Xabi Alonso",
+        "team": "Free",
+        "nationality": "",
+        "type": "Default",
+        "age": "",
+        "coachingAffinity": "None",
+        "teamPlaystyle": {
+            "Possession Game": 72,
+            "Quick Counter": 88,
+            "Long Ball Counter": 35,
+            "Out Wide": 51,
+            "Long Ball": 28
+        },
+        "imageUrl": ""
+    },
+    {
+        "name": "R. Martínez",
+        "fullName": "R. Martínez",
+        "team": "Free",
+        "nationality": "",
+        "type": "Default",
+        "age": "",
+        "coachingAffinity": "None",
+        "teamPlaystyle": {
+            "Possession Game": 72,
+            "Quick Counter": 68,
+            "Long Ball Counter": 52,
+            "Out Wide": 69,
+            "Long Ball": 88
+        },
+        "imageUrl": ""
+    },
+    {
+        "name": "V. Montella",
+        "fullName": "V. Montella",
+        "team": "Free",
+        "nationality": "",
+        "type": "Default",
+        "age": "",
+        "coachingAffinity": "None",
+        "teamPlaystyle": {
+            "Possession Game": 64,
+            "Quick Counter": 45,
+            "Long Ball Counter": 74,
+            "Out Wide": 88,
+            "Long Ball": 57
+        },
+        "imageUrl": ""
+    },
+    {
+        "name": "D. Deschamps",
+        "fullName": "D. Deschamps",
+        "team": "Free",
+        "nationality": "",
+        "type": "Default",
+        "age": "",
+        "coachingAffinity": "None",
+        "teamPlaystyle": {
+            "Possession Game": 69,
+            "Quick Counter": 62,
+            "Long Ball Counter": 88,
+            "Out Wide": 75,
+            "Long Ball": 67
+        },
+        "imageUrl": ""
+    },
+    {
+        "name": "D. Stojković",
+        "fullName": "D. Stojković",
+        "team": "Free",
+        "nationality": "",
+        "type": "Default",
+        "age": "",
+        "coachingAffinity": "None",
+        "teamPlaystyle": {
+            "Possession Game": 63,
+            "Quick Counter": 88,
+            "Long Ball Counter": 58,
+            "Out Wide": 88,
+            "Long Ball": 53
+        },
+        "imageUrl": ""
+    },
+    {
+        "name": "L. de la Fuente",
+        "fullName": "L. de la Fuente",
+        "team": "Free",
+        "nationality": "",
+        "type": "Default",
+        "age": "",
+        "coachingAffinity": "None",
+        "teamPlaystyle": {
+            "Possession Game": 88,
+            "Quick Counter": 61,
+            "Long Ball Counter": 27,
+            "Out Wide": 88,
+            "Long Ball": 22
+        },
+        "imageUrl": ""
+    },
+    {
+        "name": "Mikel Arteta",
+        "fullName": "Mikel Arteta",
+        "team": "Free",
+        "nationality": "",
+        "type": "Default",
+        "age": "",
+        "coachingAffinity": "None",
+        "teamPlaystyle": {
+            "Possession Game": 72,
+            "Quick Counter": 68,
+            "Long Ball Counter": 88,
+            "Out Wide": 67,
+            "Long Ball": 30
+        },
+        "imageUrl": ""
+    },
+    {
+        "name": "Steven Gerrard",
+        "fullName": "Steven Gerrard",
+        "team": "Free",
+        "nationality": "",
+        "type": "Default",
+        "age": "",
+        "coachingAffinity": "None",
+        "teamPlaystyle": {
+            "Possession Game": 88,
+            "Quick Counter": 35,
+            "Long Ball Counter": 55,
+            "Out Wide": 68,
+            "Long Ball": 88
+        },
+        "imageUrl": ""
+    },
+    {
+        "name": "Patrick Vieira",
+        "fullName": "Patrick Vieira",
+        "team": "Free",
+        "nationality": "",
+        "type": "Default",
+        "age": "",
+        "coachingAffinity": "None",
+        "teamPlaystyle": {
+            "Possession Game": 35,
+            "Quick Counter": 67,
+            "Long Ball Counter": 35,
+            "Out Wide": 88,
+            "Long Ball": 88
+        },
+        "imageUrl": ""
+    },
+    {
+        "name": "Paulo Fonseca",
+        "fullName": "Paulo Fonseca",
+        "team": "Free",
+        "nationality": "",
+        "type": "Default",
+        "age": "",
+        "coachingAffinity": "None",
+        "teamPlaystyle": {
+            "Possession Game": 36,
+            "Quick Counter": 88,
+            "Long Ball Counter": 73,
+            "Out Wide": 50,
+            "Long Ball": 63
+        },
+        "imageUrl": ""
+    },
+    {
+        "name": "Frank Lampard",
+        "fullName": "Frank Lampard",
+        "team": "Free",
+        "nationality": "",
+        "type": "Default",
+        "age": "",
+        "coachingAffinity": "None",
+        "teamPlaystyle": {
+            "Possession Game": 56,
+            "Quick Counter": 88,
+            "Long Ball Counter": 54,
+            "Out Wide": 88,
+            "Long Ball": 45
+        },
+        "imageUrl": ""
+    },
+    {
+        "name": "Frank Rijkaard",
+        "fullName": "Frank Rijkaard",
+        "team": "Free",
+        "nationality": "",
+        "type": "Default",
+        "age": "",
+        "coachingAffinity": "None",
+        "teamPlaystyle": {
+            "Possession Game": 88,
+            "Quick Counter": 57,
+            "Long Ball Counter": 88,
+            "Out Wide": 68,
+            "Long Ball": 35
+        },
+        "imageUrl": ""
+    },
+    {
+        "name": "Ronald Koeman",
+        "fullName": "Ronald Koeman",
+        "team": "Free",
+        "nationality": "",
+        "type": "Default",
+        "age": "",
+        "coachingAffinity": "None",
+        "teamPlaystyle": {
+            "Possession Game": 64,
+            "Quick Counter": 56,
+            "Long Ball Counter": 88,
+            "Out Wide": 72,
+            "Long Ball": 45
+        },
+        "imageUrl": ""
+    },
+    {
+        "name": "Ruben Amorim",
+        "fullName": "Ruben Amorim",
+        "team": "Free",
+        "nationality": "",
+        "type": "Default",
+        "age": "",
+        "coachingAffinity": "None",
+        "teamPlaystyle": {
+            "Possession Game": 74,
+            "Quick Counter": 88,
+            "Long Ball Counter": 54,
+            "Out Wide": 43,
+            "Long Ball": 38
+        },
+        "imageUrl": ""
+    },
+    {
+        "name": "José Mourinho",
+        "fullName": "José Mourinho",
+        "team": "Free",
+        "nationality": "",
+        "type": "Default",
+        "age": "",
+        "coachingAffinity": "None",
+        "teamPlaystyle": {
+            "Possession Game": 49,
+            "Quick Counter": 45,
+            "Long Ball Counter": 88,
+            "Out Wide": 88,
+            "Long Ball": 66
+        },
+        "imageUrl": ""
+    },
+    {
+        "name": "Vincent Kompany",
+        "fullName": "Vincent Kompany",
+        "team": "Free",
+        "nationality": "",
+        "type": "Default",
+        "age": "",
+        "coachingAffinity": "None",
+        "teamPlaystyle": {
+            "Possession Game": 88,
+            "Quick Counter": 56,
+            "Long Ball Counter": 58,
+            "Out Wide": 76,
+            "Long Ball": 54
+        },
+        "imageUrl": ""
+    },
+    {
+        "name": "Hansi Flick",
+        "fullName": "Hansi Flick",
+        "team": "Free",
+        "nationality": "",
+        "type": "Default",
+        "age": "",
+        "coachingAffinity": "None",
+        "teamPlaystyle": {
+            "Possession Game": 88,
+            "Quick Counter": 75,
+            "Long Ball Counter": 45,
+            "Out Wide": 64,
+            "Long Ball": 31
+        },
+        "imageUrl": ""
+    },
+    {
+        "name": "G. P. Gasperini",
+        "fullName": "G. P. Gasperini",
+        "team": "Free",
+        "nationality": "",
+        "type": "Default",
+        "age": "",
+        "coachingAffinity": "None",
+        "teamPlaystyle": {
+            "Possession Game": 57,
+            "Quick Counter": 88,
+            "Long Ball Counter": 88,
+            "Out Wide": 52,
+            "Long Ball": 41
+        },
+        "imageUrl": ""
+    },
+    {
+        "name": "Simone Inzaghi",
+        "fullName": "Simone Inzaghi",
+        "team": "Free",
+        "nationality": "",
+        "type": "Default",
+        "age": "",
+        "coachingAffinity": "None",
+        "teamPlaystyle": {
+            "Possession Game": 60,
+            "Quick Counter": 78,
+            "Long Ball Counter": 88,
+            "Out Wide": 51,
+            "Long Ball": 43
+        },
+        "imageUrl": ""
+    },
+    {
+        "name": "Xabi Alonso",
+        "fullName": "Xabi Alonso",
+        "team": "Free",
+        "nationality": "",
+        "type": "Default",
+        "age": "",
+        "coachingAffinity": "None",
+        "teamPlaystyle": {
+            "Possession Game": 88,
+            "Quick Counter": 88,
+            "Long Ball Counter": 46,
+            "Out Wide": 59,
+            "Long Ball": 42
+        },
+        "imageUrl": ""
+    },
+    {
+        "name": "Daniel Piscopo",
+        "fullName": "Daniel Piscopo",
+        "team": "Free",
+        "nationality": "",
+        "type": "Default",
+        "age": "",
+        "coachingAffinity": "None",
+        "teamPlaystyle": {
+            "Possession Game": 88,
+            "Quick Counter": 88,
+            "Long Ball Counter": 88,
+            "Out Wide": 88,
+            "Long Ball": 88
+        },
+        "imageUrl": ""
+    },
+    {
+        "name": "Fred Arterton",
+        "fullName": "Fred Arterton",
+        "team": "Free",
+        "nationality": "",
+        "type": "Default",
+        "age": "",
+        "coachingAffinity": "None",
+        "teamPlaystyle": {
+            "Possession Game": 88,
+            "Quick Counter": 88,
+            "Long Ball Counter": 88,
+            "Out Wide": 88,
+            "Long Ball": 88
+        },
+        "imageUrl": ""
+    },
+    {
+        "name": "Max Hanell",
+        "fullName": "Max Hanell",
+        "team": "Free",
+        "nationality": "",
+        "type": "Default",
+        "age": "",
+        "coachingAffinity": "None",
+        "teamPlaystyle": {
+            "Possession Game": 88,
+            "Quick Counter": 88,
+            "Long Ball Counter": 88,
+            "Out Wide": 88,
+            "Long Ball": 88
+        },
+        "imageUrl": ""
+    },
+    {
+        "name": "Emmerich Vander",
+        "fullName": "Emmerich Vander",
+        "team": "Free",
+        "nationality": "",
+        "type": "Default",
+        "age": "",
+        "coachingAffinity": "None",
+        "teamPlaystyle": {
+            "Possession Game": 88,
+            "Quick Counter": 88,
+            "Long Ball Counter": 88,
+            "Out Wide": 88,
+            "Long Ball": 88
+        },
+        "imageUrl": ""
+    },
+    {
+        "name": "Wernher Fesca",
+        "fullName": "Wernher Fesca",
+        "team": "Free",
+        "nationality": "",
+        "type": "Default",
+        "age": "",
+        "coachingAffinity": "None",
+        "teamPlaystyle": {
+            "Possession Game": 88,
+            "Quick Counter": 88,
+            "Long Ball Counter": 88,
+            "Out Wide": 88,
+            "Long Ball": 88
+        },
+        "imageUrl": ""
+    },
+    {
+        "name": "Harry Rellstab",
+        "fullName": "Harry Rellstab",
+        "team": "Free",
+        "nationality": "",
+        "type": "Default",
+        "age": "",
+        "coachingAffinity": "None",
+        "teamPlaystyle": {
+            "Possession Game": 88,
+            "Quick Counter": 88,
+            "Long Ball Counter": 88,
+            "Out Wide": 88,
+            "Long Ball": 88
+        },
+        "imageUrl": ""
+    },
+    {
+        "name": "Pep Guardiola",
+        "fullName": "Pep Guardiola",
+        "team": "Free",
+        "nationality": "",
+        "type": "Default",
+        "age": "",
+        "coachingAffinity": "None",
+        "teamPlaystyle": {
+            "Possession Game": 87,
+            "Quick Counter": 66,
+            "Long Ball Counter": 74,
+            "Out Wide": 75,
+            "Long Ball": 28
+        },
+        "imageUrl": ""
+    },
+    {
+        "name": "G. Southgate",
+        "fullName": "G. Southgate",
+        "team": "Free",
+        "nationality": "",
+        "type": "Default",
+        "age": "",
+        "coachingAffinity": "None",
+        "teamPlaystyle": {
+            "Possession Game": 44,
+            "Quick Counter": 86,
+            "Long Ball Counter": 87,
+            "Out Wide": 69,
+            "Long Ball": 32
+        },
+        "imageUrl": ""
+    },
+    {
+        "name": "Lionel Scaloni",
+        "fullName": "Lionel Scaloni",
+        "team": "Free",
+        "nationality": "",
+        "type": "Default",
+        "age": "",
+        "coachingAffinity": "None",
+        "teamPlaystyle": {
+            "Possession Game": 87,
+            "Quick Counter": 86,
+            "Long Ball Counter": 55,
+            "Out Wide": 38,
+            "Long Ball": 37
+        },
+        "imageUrl": ""
+    },
+    {
+        "name": "Olympio H.",
+        "fullName": "Olympio H.",
+        "team": "Free",
+        "nationality": "",
+        "type": "Default",
+        "age": "",
+        "coachingAffinity": "None",
+        "teamPlaystyle": {
+            "Possession Game": 67,
+            "Quick Counter": 87,
+            "Long Ball Counter": 52,
+            "Out Wide": 45,
+            "Long Ball": 86
+        },
+        "imageUrl": ""
+    }
 ]
