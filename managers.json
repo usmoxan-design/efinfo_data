@@ -1,12 +1,12 @@
 [
     {
         "name": "Johan Cruyff",
-        "fullName": "",
+        "fullName": "Hendrik Johannes Cruijff",
         "team": "Free",
-        "nationality": "",
+        "nationality": "Dutch",
         "type": "Default",
-        "age": "",
-        "coachingAffinity": "None",
+        "age": "Deceased (68)",
+        "coachingAffinity": "Star Players",
         "teamPlaystyle": {
             "Possession Game": 89,
             "Quick Counter": 67,
@@ -14,16 +14,26 @@
             "Out Wide": 81,
             "Long Ball": 43
         },
-        "imageUrl": "https://raw.githubusercontent.com/usmoxan-design/efinfo_data/refs/heads/main/manager_images/cruyff.png"
+        "imageUrl": "https://raw.githubusercontent.com/usmoxan-design/efinfo_data/refs/heads/main/manager_images/cruyff.png",
+        "boosters": [
+            {
+                "name": "Tight Possession",
+                "value": "+1"
+            },
+            {
+                "name": "Jumping",
+                "value": "+1"
+            }
+        ]
     },
     {
         "name": "Ståle Solbakken",
-        "fullName": "",
+        "fullName": "Ståle Solbakken",
         "team": "Free",
-        "nationality": "",
+        "nationality": "Norwegian",
         "type": "Default",
-        "age": "",
-        "coachingAffinity": "None",
+        "age": 57,
+        "coachingAffinity": "MF Players",
         "teamPlaystyle": {
             "Possession Game": 47,
             "Quick Counter": 56,
@@ -31,16 +41,26 @@
             "Out Wide": 89,
             "Long Ball": 80
         },
-        "imageUrl": "https://raw.githubusercontent.com/usmoxan-design/efinfo_data/refs/heads/main/manager_images/solbakken.png"
+        "imageUrl": "https://raw.githubusercontent.com/usmoxan-design/efinfo_data/refs/heads/main/manager_images/solbakken.png",
+        "boosters": [
+            {
+                "name": "Heading",
+                "value": "+1"
+            },
+            {
+                "name": "Physical Contact",
+                "value": "+1"
+            }
+        ]
     },
     {
         "name": "Rudi Garcia",
-        "fullName": "",
+        "fullName": "Rudi José Garcia",
         "team": "Free",
-        "nationality": "",
+        "nationality": "French",
         "type": "Default",
-        "age": "",
-        "coachingAffinity": "None",
+        "age": 61,
+        "coachingAffinity": "FW Players",
         "teamPlaystyle": {
             "Possession Game": 52,
             "Quick Counter": 89,
@@ -48,16 +68,26 @@
             "Out Wide": 80,
             "Long Ball": 69
         },
-        "imageUrl": "https://raw.githubusercontent.com/usmoxan-design/efinfo_data/refs/heads/main/manager_images/garcia.png"
+        "imageUrl": "https://raw.githubusercontent.com/usmoxan-design/efinfo_data/refs/heads/main/manager_images/garcia.png",
+        "boosters": [
+            {
+                "name": "Ball Control",
+                "value": "+1"
+            },
+            {
+                "name": "Offensive Awareness",
+                "value": "+1"
+            }
+        ]
     },
     {
         "name": "L. Spalletti",
-        "fullName": "L. Spalletti",
+        "fullName": "Luciano Spalletti",
         "team": "Free",
-        "nationality": "",
+        "nationality": "Italian",
         "type": "Default",
-        "age": "",
-        "coachingAffinity": "None",
+        "age": 66,
+        "coachingAffinity": "MF Players",
         "teamPlaystyle": {
             "Possession Game": 82,
             "Quick Counter": 56,
@@ -65,16 +95,26 @@
             "Out Wide": 61,
             "Long Ball": 46
         },
-        "imageUrl": "https://raw.githubusercontent.com/usmoxan-design/efinfo_data/refs/heads/main/manager_images/spalletti.png"
+        "imageUrl": "https://raw.githubusercontent.com/usmoxan-design/efinfo_data/refs/heads/main/manager_images/spalletti.png",
+        "boosters": [
+            {
+                "name": "Defensive Awareness",
+                "value": "+1"
+            },
+            {
+                "name": "Stamina",
+                "value": "+1"
+            }
+        ]
     },
     {
         "name": "F. Beckenbauer",
-        "fullName": "F. Beckenbauer",
+        "fullName": "Franz Beckenbauer",
         "team": "Free",
-        "nationality": "",
+        "nationality": "German",
         "type": "Default",
-        "age": "",
-        "coachingAffinity": "None",
+        "age": "Deceased (78)",
+        "coachingAffinity": "DF Players",
         "teamPlaystyle": {
             "Possession Game": 53,
             "Quick Counter": 67,
@@ -82,16 +122,26 @@
             "Out Wide": 54,
             "Long Ball": 89
         },
-        "imageUrl": "https://raw.githubusercontent.com/usmoxan-design/efinfo_data/refs/heads/main/manager_images/beckenbauer.png"
+        "imageUrl": "https://raw.githubusercontent.com/usmoxan-design/efinfo_data/refs/heads/main/manager_images/beckenbauer.png",
+        "boosters": [
+            {
+                "name": "Finishing",
+                "value": "+1"
+            },
+            {
+                "name": "Kicking Power",
+                "value": "+1"
+            }
+        ]
     },
     {
         "name": "Okan Buruk",
-        "fullName": "",
+        "fullName": "Okan Buruk",
         "team": "Free",
-        "nationality": "",
+        "nationality": "Turkish",
         "type": "Default",
-        "age": "",
-        "coachingAffinity": "None",
+        "age": 52,
+        "coachingAffinity": "FW Players",
         "teamPlaystyle": {
             "Possession Game": 55,
             "Quick Counter": 80,
@@ -99,16 +149,26 @@
             "Out Wide": 89,
             "Long Ball": 63
         },
-        "imageUrl": "https://raw.githubusercontent.com/usmoxan-design/efinfo_data/refs/heads/main/manager_images/burak.png"
+        "imageUrl": "https://raw.githubusercontent.com/usmoxan-design/efinfo_data/refs/heads/main/manager_images/burak.png",
+        "boosters": [
+            {
+                "name": "Balance",
+                "value": "+1"
+            },
+            {
+                "name": "Lofted Pass",
+                "value": "+1"
+            }
+        ]
     },
     {
         "name": "R. Martínez",
-        "fullName": "R. Martínez",
+        "fullName": "Roberto Martínez",
         "team": "Free",
-        "nationality": "",
+        "nationality": "Spanish",
         "type": "Default",
-        "age": "",
-        "coachingAffinity": "None",
+        "age": 52,
+        "coachingAffinity": "Veteran Players",
         "teamPlaystyle": {
             "Possession Game": 64,
             "Quick Counter": 46,
@@ -116,16 +176,26 @@
             "Out Wide": 80,
             "Long Ball": 53
         },
-        "imageUrl": "https://raw.githubusercontent.com/usmoxan-design/efinfo_data/refs/heads/main/manager_images/martinez2.png"
+        "imageUrl": "https://raw.githubusercontent.com/usmoxan-design/efinfo_data/refs/heads/main/manager_images/martinez2.png",
+        "boosters": [
+            {
+                "name": "Ball Control",
+                "value": "+1"
+            },
+            {
+                "name": "Aggression",
+                "value": "+1"
+            }
+        ]
     },
     {
         "name": "P. Kluivert",
-        "fullName": "P. Kluivert",
+        "fullName": "Patrick Kluivert",
         "team": "Free",
-        "nationality": "",
+        "nationality": "Dutch",
         "type": "Default",
-        "age": "",
-        "coachingAffinity": "None",
+        "age": 49,
+        "coachingAffinity": "FW Players",
         "teamPlaystyle": {
             "Possession Game": 89,
             "Quick Counter": 80,
@@ -133,15 +203,25 @@
             "Out Wide": 51,
             "Long Ball": 48
         },
-        "imageUrl": "https://raw.githubusercontent.com/usmoxan-design/efinfo_data/refs/heads/main/manager_images/kluivert.png"
+        "imageUrl": "https://raw.githubusercontent.com/usmoxan-design/efinfo_data/refs/heads/main/manager_images/kluivert.png",
+        "boosters": [
+            {
+                "name": "Low Pass",
+                "value": "+1"
+            },
+            {
+                "name": "Defensive Engagement",
+                "value": "+1"
+            }
+        ]
     },
     {
         "name": "José Mourinho",
         "fullName": "José Mourinho",
         "team": "Free",
-        "nationality": "",
+        "nationality": "Portuguese",
         "type": "Default",
-        "age": "",
+        "age": 62,
         "coachingAffinity": "Veteran Players",
         "teamPlaystyle": {
             "Possession Game": 59,
@@ -150,15 +230,25 @@
             "Out Wide": 68,
             "Long Ball": 80
         },
-        "imageUrl": "https://raw.githubusercontent.com/usmoxan-design/efinfo_data/refs/heads/main/manager_images/mourinho2.png"
+        "imageUrl": "https://raw.githubusercontent.com/usmoxan-design/efinfo_data/refs/heads/main/manager_images/mourinho2.png",
+        "boosters": [
+            {
+                "name": "Physical Contact",
+                "value": "+1"
+            },
+            {
+                "name": "Stamina",
+                "value": "+1"
+            }
+        ]
     },
     {
         "name": "Fabio Capello",
         "fullName": "Fabio Capello",
         "team": "Free",
-        "nationality": "",
+        "nationality": "Italian",
         "type": "Default",
-        "age": "",
+        "age": 79,
         "coachingAffinity": "MF Players",
         "teamPlaystyle": {
             "Possession Game": 46,
@@ -167,15 +257,16 @@
             "Out Wide": 64,
             "Long Ball": 89
         },
-        "imageUrl": "https://raw.githubusercontent.com/usmoxan-design/efinfo_data/refs/heads/main/manager_images/capello.png"
+        "imageUrl": "https://raw.githubusercontent.com/usmoxan-design/efinfo_data/refs/heads/main/manager_images/capello.png",
+        "boosters": []
     },
     {
         "name": "Frank Rijkaard",
         "fullName": "Frank Rijkaard",
         "team": "Free",
-        "nationality": "",
+        "nationality": "Dutch",
         "type": "Default",
-        "age": "",
+        "age": 63,
         "coachingAffinity": "DF Players",
         "teamPlaystyle": {
             "Possession Game": 70,
@@ -184,15 +275,16 @@
             "Out Wide": 89,
             "Long Ball": 46
         },
-        "imageUrl": "https://raw.githubusercontent.com/usmoxan-design/efinfo_data/refs/heads/main/manager_images/rijkaard.png"
+        "imageUrl": "https://raw.githubusercontent.com/usmoxan-design/efinfo_data/refs/heads/main/manager_images/rijkaard.png",
+        "boosters": []
     },
     {
         "name": "Pep Guardiola",
         "fullName": "Pep Guardiola",
         "team": "Free",
-        "nationality": "",
+        "nationality": "Spanish",
         "type": "Default",
-        "age": "",
+        "age": 54,
         "coachingAffinity": "Star Players",
         "teamPlaystyle": {
             "Possession Game": 89,
@@ -201,15 +293,16 @@
             "Out Wide": 89,
             "Long Ball": 51
         },
-        "imageUrl": "https://raw.githubusercontent.com/usmoxan-design/efinfo_data/refs/heads/main/manager_images/guardiola3.png"
+        "imageUrl": "https://raw.githubusercontent.com/usmoxan-design/efinfo_data/refs/heads/main/manager_images/guardiola3.png",
+        "boosters": []
     },
     {
         "name": "Ruben Amorim",
         "fullName": "Ruben Amorim",
         "team": "Free",
-        "nationality": "",
+        "nationality": "Portuguese",
         "type": "Default",
-        "age": "",
+        "age": 40,
         "coachingAffinity": "Young Players",
         "teamPlaystyle": {
             "Possession Game": 62,
@@ -218,15 +311,25 @@
             "Out Wide": 89,
             "Long Ball": 46
         },
-        "imageUrl": "https://raw.githubusercontent.com/usmoxan-design/efinfo_data/refs/heads/main/manager_images/amorim2.png"
+        "imageUrl": "https://raw.githubusercontent.com/usmoxan-design/efinfo_data/refs/heads/main/manager_images/amorim2.png",
+        "boosters": [
+            {
+                "name": "Physical Contact",
+                "value": "+1"
+            },
+            {
+                "name": "Lofted Pass",
+                "value": "+1"
+            }
+        ]
     },
     {
         "name": "Hansi Flick",
         "fullName": "Hansi Flick",
         "team": "Free",
-        "nationality": "",
+        "nationality": "German",
         "type": "Default",
-        "age": "",
+        "age": 60,
         "coachingAffinity": "FW Players",
         "teamPlaystyle": {
             "Possession Game": 89,
@@ -235,16 +338,26 @@
             "Out Wide": 57,
             "Long Ball": 45
         },
-        "imageUrl": "https://raw.githubusercontent.com/usmoxan-design/efinfo_data/refs/heads/main/manager_images/flick.png"
+        "imageUrl": "https://raw.githubusercontent.com/usmoxan-design/efinfo_data/refs/heads/main/manager_images/flick.png",
+        "boosters": [
+            {
+                "name": "Low Pass",
+                "value": "+1"
+            },
+            {
+                "name": "Speed",
+                "value": "+1"
+            }
+        ]
     },
     {
         "name": "Mikel Arteta",
         "fullName": "Mikel Arteta",
         "team": "Free",
-        "nationality": "",
+        "nationality": "Spanish",
         "type": "Default",
-        "age": "",
-        "coachingAffinity": "None",
+        "age": 43,
+        "coachingAffinity": "Young Players",
         "teamPlaystyle": {
             "Possession Game": 89,
             "Quick Counter": 64,
@@ -252,16 +365,26 @@
             "Out Wide": 57,
             "Long Ball": 54
         },
-        "imageUrl": "https://raw.githubusercontent.com/usmoxan-design/efinfo_data/refs/heads/main/manager_images/arteta2.png"
+        "imageUrl": "https://raw.githubusercontent.com/usmoxan-design/efinfo_data/refs/heads/main/manager_images/arteta2.png",
+        "boosters": [
+            {
+                "name": "Tight Possession",
+                "value": "+1"
+            },
+            {
+                "name": "Acceleration",
+                "value": "+1"
+            }
+        ]
     },
     {
         "name": "Cesc Fàbregas",
         "fullName": "Cesc Fàbregas",
         "team": "Free",
-        "nationality": "",
+        "nationality": "Spanish",
         "type": "Default",
-        "age": "",
-        "coachingAffinity": "None",
+        "age": 38,
+        "coachingAffinity": "MF Players",
         "teamPlaystyle": {
             "Possession Game": 89,
             "Quick Counter": 65,
@@ -269,15 +392,16 @@
             "Out Wide": 68,
             "Long Ball": 57
         },
-        "imageUrl": "https://raw.githubusercontent.com/usmoxan-design/efinfo_data/refs/heads/main/manager_images/fabregas.png"
+        "imageUrl": "https://raw.githubusercontent.com/usmoxan-design/efinfo_data/refs/heads/main/manager_images/fabregas.png",
+        "boosters": []
     },
     {
         "name": "Ronald Koeman",
         "fullName": "Ronald Koeman",
         "team": "Free",
-        "nationality": "",
+        "nationality": "Dutch",
         "type": "Default",
-        "age": "",
+        "age": 62,
         "coachingAffinity": "Veteran Players",
         "teamPlaystyle": {
             "Possession Game": 89,
@@ -286,15 +410,16 @@
             "Out Wide": 68,
             "Long Ball": 61
         },
-        "imageUrl": "https://raw.githubusercontent.com/usmoxan-design/efinfo_data/refs/heads/main/manager_images/koeman2.png"
+        "imageUrl": "https://raw.githubusercontent.com/usmoxan-design/efinfo_data/refs/heads/main/manager_images/koeman2.png",
+        "boosters": []
     },
     {
         "name": "Gennaro Gattuso",
         "fullName": "Gennaro Gattuso",
         "team": "Free",
-        "nationality": "",
+        "nationality": "Italian",
         "type": "Default",
-        "age": "",
+        "age": 47,
         "coachingAffinity": "FW Players",
         "teamPlaystyle": {
             "Possession Game": 53,
@@ -303,16 +428,17 @@
             "Out Wide": 89,
             "Long Ball": 71
         },
-        "imageUrl": "https://raw.githubusercontent.com/usmoxan-design/efinfo_data/refs/heads/main/manager_images/gatusso.png"
+        "imageUrl": "https://raw.githubusercontent.com/usmoxan-design/efinfo_data/refs/heads/main/manager_images/gatusso.png",
+        "boosters": []
     },
     {
         "name": "Pep Guardiola",
         "fullName": "Pep Guardiola",
         "team": "Free",
-        "nationality": "Spain",
+        "nationality": "Spanish",
         "type": "Default",
-        "age": 59,
-        "coachingAffinity": "None",
+        "age": 54,
+        "coachingAffinity": "Star Players",
         "teamPlaystyle": {
             "Possession Game": 88,
             "Quick Counter": 74,
@@ -320,16 +446,17 @@
             "Out Wide": 68,
             "Long Ball": 32
         },
-        "imageUrl": "https://raw.githubusercontent.com/usmoxan-design/efinfo_data/refs/heads/main/manager_images/guardiola2.png"
+        "imageUrl": "https://raw.githubusercontent.com/usmoxan-design/efinfo_data/refs/heads/main/manager_images/guardiola2.png",
+        "boosters": []
     },
     {
         "name": "Xabi Alonso",
         "fullName": "Xabi Alonso",
         "team": "Free",
-        "nationality": "",
+        "nationality": "Spanish",
         "type": "Default",
-        "age": "",
-        "coachingAffinity": "None",
+        "age": 44,
+        "coachingAffinity": "MF Players",
         "teamPlaystyle": {
             "Possession Game": 72,
             "Quick Counter": 88,
@@ -337,16 +464,22 @@
             "Out Wide": 51,
             "Long Ball": 28
         },
-        "imageUrl": "https://raw.githubusercontent.com/usmoxan-design/efinfo_data/refs/heads/main/manager_images/alonso2.png"
+        "imageUrl": "https://raw.githubusercontent.com/usmoxan-design/efinfo_data/refs/heads/main/manager_images/alonso2.png",
+        "boosters": [
+            {
+                "name": "Acceleration",
+                "value": "+1"
+            }
+        ]
     },
     {
         "name": "R. Martínez",
-        "fullName": "R. Martínez",
+        "fullName": "Roberto Martínez",
         "team": "Free",
-        "nationality": "",
+        "nationality": "Spanish",
         "type": "Default",
-        "age": "",
-        "coachingAffinity": "None",
+        "age": 52,
+        "coachingAffinity": "Veteran Players",
         "teamPlaystyle": {
             "Possession Game": 72,
             "Quick Counter": 68,
@@ -354,16 +487,22 @@
             "Out Wide": 69,
             "Long Ball": 88
         },
-        "imageUrl": "https://raw.githubusercontent.com/usmoxan-design/efinfo_data/refs/heads/main/manager_images/martinez.png"
+        "imageUrl": "https://raw.githubusercontent.com/usmoxan-design/efinfo_data/refs/heads/main/manager_images/martinez.png",
+        "boosters": [
+            {
+                "name": "Physical Contact",
+                "value": "+1"
+            }
+        ]
     },
     {
         "name": "V. Montella",
-        "fullName": "V. Montella",
+        "fullName": "Vincenzo Montella",
         "team": "Free",
-        "nationality": "",
+        "nationality": "Italian",
         "type": "Default",
-        "age": "",
-        "coachingAffinity": "None",
+        "age": 51,
+        "coachingAffinity": "FW Players",
         "teamPlaystyle": {
             "Possession Game": 64,
             "Quick Counter": 45,
@@ -371,16 +510,17 @@
             "Out Wide": 88,
             "Long Ball": 57
         },
-        "imageUrl": "https://raw.githubusercontent.com/usmoxan-design/efinfo_data/refs/heads/main/manager_images/montella.png"
+        "imageUrl": "https://raw.githubusercontent.com/usmoxan-design/efinfo_data/refs/heads/main/manager_images/montella.png",
+        "boosters": []
     },
     {
         "name": "D. Deschamps",
-        "fullName": "D. Deschamps",
+        "fullName": "Didier Deschamps",
         "team": "Free",
-        "nationality": "",
+        "nationality": "French",
         "type": "Default",
-        "age": "",
-        "coachingAffinity": "None",
+        "age": 57,
+        "coachingAffinity": "MF Players",
         "teamPlaystyle": {
             "Possession Game": 69,
             "Quick Counter": 62,
@@ -388,16 +528,22 @@
             "Out Wide": 75,
             "Long Ball": 67
         },
-        "imageUrl": "https://raw.githubusercontent.com/usmoxan-design/efinfo_data/refs/heads/main/manager_images/deschamp.png"
+        "imageUrl": "https://raw.githubusercontent.com/usmoxan-design/efinfo_data/refs/heads/main/manager_images/deschamp.png",
+        "boosters": [
+            {
+                "name": "Speed",
+                "value": "+1"
+            }
+        ]
     },
     {
         "name": "D. Stojković",
-        "fullName": "D. Stojković",
+        "fullName": "Dragan Stojković",
         "team": "Free",
-        "nationality": "",
+        "nationality": "Serbian",
         "type": "Default",
-        "age": "",
-        "coachingAffinity": "None",
+        "age": 60,
+        "coachingAffinity": "DF Players",
         "teamPlaystyle": {
             "Possession Game": 63,
             "Quick Counter": 88,
@@ -405,16 +551,22 @@
             "Out Wide": 88,
             "Long Ball": 53
         },
-        "imageUrl": "https://raw.githubusercontent.com/usmoxan-design/efinfo_data/refs/heads/main/manager_images/stojkovic.png"
+        "imageUrl": "https://raw.githubusercontent.com/usmoxan-design/efinfo_data/refs/heads/main/manager_images/stojkovic.png",
+        "boosters": [
+            {
+                "name": "Kicking Power",
+                "value": "+1"
+            }
+        ]
     },
     {
         "name": "L. de la Fuente",
-        "fullName": "L. de la Fuente",
+        "fullName": "Luis de la Fuente",
         "team": "Free",
-        "nationality": "",
+        "nationality": "Spanish",
         "type": "Default",
-        "age": "",
-        "coachingAffinity": "None",
+        "age": 64,
+        "coachingAffinity": "Young Players",
         "teamPlaystyle": {
             "Possession Game": 88,
             "Quick Counter": 61,
@@ -422,16 +574,17 @@
             "Out Wide": 88,
             "Long Ball": 22
         },
-        "imageUrl": "https://raw.githubusercontent.com/usmoxan-design/efinfo_data/refs/heads/main/manager_images/fuente.png"
+        "imageUrl": "https://raw.githubusercontent.com/usmoxan-design/efinfo_data/refs/heads/main/manager_images/fuente.png",
+        "boosters": []
     },
     {
         "name": "Mikel Arteta",
         "fullName": "Mikel Arteta",
         "team": "Free",
-        "nationality": "",
+        "nationality": "Spanish",
         "type": "Default",
-        "age": "",
-        "coachingAffinity": "None",
+        "age": 43,
+        "coachingAffinity": "Young Players",
         "teamPlaystyle": {
             "Possession Game": 72,
             "Quick Counter": 68,
@@ -439,16 +592,26 @@
             "Out Wide": 67,
             "Long Ball": 30
         },
-        "imageUrl": "https://raw.githubusercontent.com/usmoxan-design/efinfo_data/refs/heads/main/manager_images/arteta.png"
+        "imageUrl": "https://raw.githubusercontent.com/usmoxan-design/efinfo_data/refs/heads/main/manager_images/arteta.png",
+        "boosters": [
+            {
+                "name": "Tight Possession",
+                "value": "+1"
+            },
+            {
+                "name": "Acceleration",
+                "value": "+1"
+            }
+        ]
     },
     {
         "name": "Steven Gerrard",
         "fullName": "Steven Gerrard",
         "team": "Free",
-        "nationality": "",
+        "nationality": "English",
         "type": "Default",
-        "age": "",
-        "coachingAffinity": "None",
+        "age": 45,
+        "coachingAffinity": "MF Players",
         "teamPlaystyle": {
             "Possession Game": 88,
             "Quick Counter": 35,
@@ -456,16 +619,22 @@
             "Out Wide": 68,
             "Long Ball": 88
         },
-        "imageUrl": "https://raw.githubusercontent.com/usmoxan-design/efinfo_data/refs/heads/main/manager_images/gerrard.png"
+        "imageUrl": "https://raw.githubusercontent.com/usmoxan-design/efinfo_data/refs/heads/main/manager_images/gerrard.png",
+        "boosters": [
+            {
+                "name": "Dribbling",
+                "value": "+1"
+            }
+        ]
     },
     {
         "name": "Patrick Vieira",
         "fullName": "Patrick Vieira",
         "team": "Free",
-        "nationality": "",
+        "nationality": "French",
         "type": "Default",
-        "age": "",
-        "coachingAffinity": "None",
+        "age": 49,
+        "coachingAffinity": "MF Players",
         "teamPlaystyle": {
             "Possession Game": 35,
             "Quick Counter": 67,
@@ -473,16 +642,22 @@
             "Out Wide": 88,
             "Long Ball": 88
         },
-        "imageUrl": "https://raw.githubusercontent.com/usmoxan-design/efinfo_data/refs/heads/main/manager_images/vieira.png"
+        "imageUrl": "https://raw.githubusercontent.com/usmoxan-design/efinfo_data/refs/heads/main/manager_images/vieira.png",
+        "boosters": [
+            {
+                "name": "Tackling",
+                "value": "+1"
+            }
+        ]
     },
     {
         "name": "Paulo Fonseca",
         "fullName": "Paulo Fonseca",
         "team": "Free",
-        "nationality": "",
+        "nationality": "Portuguese",
         "type": "Default",
-        "age": "",
-        "coachingAffinity": "None",
+        "age": 52,
+        "coachingAffinity": "Young Players",
         "teamPlaystyle": {
             "Possession Game": 36,
             "Quick Counter": 88,
@@ -490,16 +665,26 @@
             "Out Wide": 50,
             "Long Ball": 63
         },
-        "imageUrl": "https://raw.githubusercontent.com/usmoxan-design/efinfo_data/refs/heads/main/manager_images/fonseca.png"
+        "imageUrl": "https://raw.githubusercontent.com/usmoxan-design/efinfo_data/refs/heads/main/manager_images/fonseca.png",
+        "boosters": [
+            {
+                "name": "Physical Contact",
+                "value": "+1"
+            },
+            {
+                "name": "Kicking Power",
+                "value": "+1"
+            }
+        ]
     },
     {
         "name": "Frank Lampard",
         "fullName": "Frank Lampard",
         "team": "Free",
-        "nationality": "",
+        "nationality": "English",
         "type": "Default",
-        "age": "",
-        "coachingAffinity": "None",
+        "age": 47,
+        "coachingAffinity": "MF Players",
         "teamPlaystyle": {
             "Possession Game": 56,
             "Quick Counter": 88,
@@ -507,16 +692,22 @@
             "Out Wide": 88,
             "Long Ball": 45
         },
-        "imageUrl": "https://raw.githubusercontent.com/usmoxan-design/efinfo_data/refs/heads/main/manager_images/lampard.png"
+        "imageUrl": "https://raw.githubusercontent.com/usmoxan-design/efinfo_data/refs/heads/main/manager_images/lampard.png",
+        "boosters": [
+            {
+                "name": "Balance",
+                "value": "+1"
+            }
+        ]
     },
     {
         "name": "Frank Rijkaard",
         "fullName": "Frank Rijkaard",
         "team": "Free",
-        "nationality": "",
+        "nationality": "Dutch",
         "type": "Default",
-        "age": "",
-        "coachingAffinity": "None",
+        "age": 63,
+        "coachingAffinity": "DF Players",
         "teamPlaystyle": {
             "Possession Game": 88,
             "Quick Counter": 57,
@@ -524,16 +715,17 @@
             "Out Wide": 68,
             "Long Ball": 35
         },
-        "imageUrl": "https://raw.githubusercontent.com/usmoxan-design/efinfo_data/refs/heads/main/manager_images/rijkaard.png"
+        "imageUrl": "https://raw.githubusercontent.com/usmoxan-design/efinfo_data/refs/heads/main/manager_images/rijkaard.png",
+        "boosters": []
     },
     {
         "name": "Ronald Koeman",
         "fullName": "Ronald Koeman",
         "team": "Free",
-        "nationality": "",
+        "nationality": "Dutch",
         "type": "Default",
-        "age": "",
-        "coachingAffinity": "None",
+        "age": 62,
+        "coachingAffinity": "MF Players",
         "teamPlaystyle": {
             "Possession Game": 64,
             "Quick Counter": 56,
@@ -541,16 +733,17 @@
             "Out Wide": 72,
             "Long Ball": 45
         },
-        "imageUrl": "https://raw.githubusercontent.com/usmoxan-design/efinfo_data/refs/heads/main/manager_images/koeman.png"
+        "imageUrl": "https://raw.githubusercontent.com/usmoxan-design/efinfo_data/refs/heads/main/manager_images/koeman.png",
+        "boosters": []
     },
     {
         "name": "Ruben Amorim",
         "fullName": "Ruben Amorim",
         "team": "Free",
-        "nationality": "",
+        "nationality": "Portuguese",
         "type": "Default",
-        "age": "",
-        "coachingAffinity": "None",
+        "age": 40,
+        "coachingAffinity": "Young Players",
         "teamPlaystyle": {
             "Possession Game": 74,
             "Quick Counter": 88,
@@ -558,16 +751,26 @@
             "Out Wide": 43,
             "Long Ball": 38
         },
-        "imageUrl": "https://raw.githubusercontent.com/usmoxan-design/efinfo_data/refs/heads/main/manager_images/amorim.png"
+        "imageUrl": "https://raw.githubusercontent.com/usmoxan-design/efinfo_data/refs/heads/main/manager_images/amorim.png",
+        "boosters": [
+            {
+                "name": "Speed",
+                "value": "+1"
+            },
+            {
+                "name": "Offensive Awareness",
+                "value": "+1"
+            }
+        ]
     },
     {
         "name": "José Mourinho",
         "fullName": "José Mourinho",
         "team": "Free",
-        "nationality": "",
+        "nationality": "Portuguese",
         "type": "Default",
-        "age": "",
-        "coachingAffinity": "None",
+        "age": 62,
+        "coachingAffinity": "Veteran Players",
         "teamPlaystyle": {
             "Possession Game": 49,
             "Quick Counter": 45,
@@ -575,16 +778,26 @@
             "Out Wide": 88,
             "Long Ball": 66
         },
-        "imageUrl": "https://raw.githubusercontent.com/usmoxan-design/efinfo_data/refs/heads/main/manager_images/mourinho.png"
+        "imageUrl": "https://raw.githubusercontent.com/usmoxan-design/efinfo_data/refs/heads/main/manager_images/mourinho.png",
+        "boosters": [
+            {
+                "name": "Physical Contact",
+                "value": "+1"
+            },
+            {
+                "name": "Stamina",
+                "value": "+1"
+            }
+        ]
     },
     {
         "name": "Vincent Kompany",
         "fullName": "Vincent Kompany",
         "team": "Free",
-        "nationality": "",
+        "nationality": "Belgian",
         "type": "Default",
-        "age": "",
-        "coachingAffinity": "None",
+        "age": 39,
+        "coachingAffinity": "DF Players",
         "teamPlaystyle": {
             "Possession Game": 88,
             "Quick Counter": 56,
@@ -592,16 +805,26 @@
             "Out Wide": 76,
             "Long Ball": 54
         },
-        "imageUrl": "https://raw.githubusercontent.com/usmoxan-design/efinfo_data/refs/heads/main/manager_images/kompany.png"
+        "imageUrl": "https://raw.githubusercontent.com/usmoxan-design/efinfo_data/refs/heads/main/manager_images/kompany.png",
+        "boosters": [
+            {
+                "name": "Acceleration",
+                "value": "+1"
+            },
+            {
+                "name": "Kicking Power",
+                "value": "+1"
+            }
+        ]
     },
     {
         "name": "Hansi Flick",
         "fullName": "Hansi Flick",
         "team": "Free",
-        "nationality": "",
+        "nationality": "German",
         "type": "Default",
-        "age": "",
-        "coachingAffinity": "None",
+        "age": 60,
+        "coachingAffinity": "FW Players",
         "teamPlaystyle": {
             "Possession Game": 88,
             "Quick Counter": 75,
@@ -609,16 +832,26 @@
             "Out Wide": 64,
             "Long Ball": 31
         },
-        "imageUrl": "https://raw.githubusercontent.com/usmoxan-design/efinfo_data/refs/heads/main/manager_images/flick.png"
+        "imageUrl": "https://raw.githubusercontent.com/usmoxan-design/efinfo_data/refs/heads/main/manager_images/flick.png",
+        "boosters": [
+            {
+                "name": "Low Pass",
+                "value": "+1"
+            },
+            {
+                "name": "Speed",
+                "value": "+1"
+            }
+        ]
     },
     {
         "name": "G. P. Gasperini",
-        "fullName": "G. P. Gasperini",
+        "fullName": "Gian Piero Gasperini",
         "team": "Free",
-        "nationality": "",
+        "nationality": "Italian",
         "type": "Default",
-        "age": "",
-        "coachingAffinity": "None",
+        "age": 67,
+        "coachingAffinity": "FW Players",
         "teamPlaystyle": {
             "Possession Game": 57,
             "Quick Counter": 88,
@@ -626,16 +859,22 @@
             "Out Wide": 52,
             "Long Ball": 41
         },
-        "imageUrl": "https://raw.githubusercontent.com/usmoxan-design/efinfo_data/refs/heads/main/manager_images/gasperini.png"
+        "imageUrl": "https://raw.githubusercontent.com/usmoxan-design/efinfo_data/refs/heads/main/manager_images/gasperini.png",
+        "boosters": [
+            {
+                "name": "Physical Contact",
+                "value": "+1"
+            }
+        ]
     },
     {
         "name": "Simone Inzaghi",
         "fullName": "Simone Inzaghi",
         "team": "Free",
-        "nationality": "",
+        "nationality": "Italian",
         "type": "Default",
-        "age": "",
-        "coachingAffinity": "None",
+        "age": 49,
+        "coachingAffinity": "FW Players",
         "teamPlaystyle": {
             "Possession Game": 60,
             "Quick Counter": 78,
@@ -643,16 +882,26 @@
             "Out Wide": 51,
             "Long Ball": 43
         },
-        "imageUrl": "https://raw.githubusercontent.com/usmoxan-design/efinfo_data/refs/heads/main/manager_images/inzaghi.png"
+        "imageUrl": "https://raw.githubusercontent.com/usmoxan-design/efinfo_data/refs/heads/main/manager_images/inzaghi.png",
+        "boosters": [
+            {
+                "name": "Speed",
+                "value": "+1"
+            },
+            {
+                "name": "Finishing",
+                "value": "+1"
+            }
+        ]
     },
     {
         "name": "Xabi Alonso",
         "fullName": "Xabi Alonso",
         "team": "Free",
-        "nationality": "",
+        "nationality": "Spanish",
         "type": "Default",
-        "age": "",
-        "coachingAffinity": "None",
+        "age": 44,
+        "coachingAffinity": "MF Players",
         "teamPlaystyle": {
             "Possession Game": 88,
             "Quick Counter": 88,
@@ -660,7 +909,13 @@
             "Out Wide": 59,
             "Long Ball": 42
         },
-        "imageUrl": "https://raw.githubusercontent.com/usmoxan-design/efinfo_data/refs/heads/main/manager_images/alonso.png"
+        "imageUrl": "https://raw.githubusercontent.com/usmoxan-design/efinfo_data/refs/heads/main/manager_images/alonso.png",
+        "boosters": [
+            {
+                "name": "Acceleration",
+                "value": "+1"
+            }
+        ]
     },
     {
         "name": "Daniel Piscopo",
@@ -677,7 +932,8 @@
             "Out Wide": 88,
             "Long Ball": 88
         },
-        "imageUrl": "https://raw.githubusercontent.com/usmoxan-design/efinfo_data/refs/heads/main/manager_images/coach_0.png"
+        "imageUrl": "https://raw.githubusercontent.com/usmoxan-design/efinfo_data/refs/heads/main/manager_images/coach_0.png",
+        "boosters": []
     },
     {
         "name": "Fred Arterton",
@@ -694,7 +950,8 @@
             "Out Wide": 88,
             "Long Ball": 88
         },
-        "imageUrl": "https://raw.githubusercontent.com/usmoxan-design/efinfo_data/refs/heads/main/manager_images/coach_0.png"
+        "imageUrl": "https://raw.githubusercontent.com/usmoxan-design/efinfo_data/refs/heads/main/manager_images/coach_0.png",
+        "boosters": []
     },
     {
         "name": "Max Hanell",
@@ -711,7 +968,8 @@
             "Out Wide": 88,
             "Long Ball": 88
         },
-        "imageUrl": "https://raw.githubusercontent.com/usmoxan-design/efinfo_data/refs/heads/main/manager_images/coach_0.png"
+        "imageUrl": "https://raw.githubusercontent.com/usmoxan-design/efinfo_data/refs/heads/main/manager_images/coach_0.png",
+        "boosters": []
     },
     {
         "name": "Emmerich Vander",
@@ -728,7 +986,8 @@
             "Out Wide": 88,
             "Long Ball": 88
         },
-        "imageUrl": "https://raw.githubusercontent.com/usmoxan-design/efinfo_data/refs/heads/main/manager_images/coach_0.png"
+        "imageUrl": "https://raw.githubusercontent.com/usmoxan-design/efinfo_data/refs/heads/main/manager_images/coach_0.png",
+        "boosters": []
     },
     {
         "name": "Wernher Fesca",
@@ -745,7 +1004,8 @@
             "Out Wide": 88,
             "Long Ball": 88
         },
-        "imageUrl": "https://raw.githubusercontent.com/usmoxan-design/efinfo_data/refs/heads/main/manager_images/coach_0.png"
+        "imageUrl": "https://raw.githubusercontent.com/usmoxan-design/efinfo_data/refs/heads/main/manager_images/coach_0.png",
+        "boosters": []
     },
     {
         "name": "Harry Rellstab",
@@ -762,16 +1022,17 @@
             "Out Wide": 88,
             "Long Ball": 88
         },
-        "imageUrl": "https://raw.githubusercontent.com/usmoxan-design/efinfo_data/refs/heads/main/manager_images/coach_0.png"
+        "imageUrl": "https://raw.githubusercontent.com/usmoxan-design/efinfo_data/refs/heads/main/manager_images/coach_0.png",
+        "boosters": []
     },
     {
         "name": "Pep Guardiola",
         "fullName": "Pep Guardiola",
         "team": "Free",
-        "nationality": "",
+        "nationality": "Spanish",
         "type": "Default",
-        "age": "",
-        "coachingAffinity": "None",
+        "age": 54,
+        "coachingAffinity": "Star Players",
         "teamPlaystyle": {
             "Possession Game": 87,
             "Quick Counter": 66,
@@ -779,16 +1040,17 @@
             "Out Wide": 75,
             "Long Ball": 28
         },
-        "imageUrl": "https://raw.githubusercontent.com/usmoxan-design/efinfo_data/refs/heads/main/manager_images/guardiola.png"
+        "imageUrl": "https://raw.githubusercontent.com/usmoxan-design/efinfo_data/refs/heads/main/manager_images/guardiola.png",
+        "boosters": []
     },
     {
         "name": "G. Southgate",
-        "fullName": "G. Southgate",
+        "fullName": "Gareth Southgate",
         "team": "Free",
-        "nationality": "",
+        "nationality": "English",
         "type": "Default",
-        "age": "",
-        "coachingAffinity": "None",
+        "age": 55,
+        "coachingAffinity": "Young Players",
         "teamPlaystyle": {
             "Possession Game": 44,
             "Quick Counter": 86,
@@ -796,16 +1058,17 @@
             "Out Wide": 69,
             "Long Ball": 32
         },
-        "imageUrl": "https://raw.githubusercontent.com/usmoxan-design/efinfo_data/refs/heads/main/manager_images/southgate.png"
+        "imageUrl": "https://raw.githubusercontent.com/usmoxan-design/efinfo_data/refs/heads/main/manager_images/southgate.png",
+        "boosters": []
     },
     {
         "name": "Lionel Scaloni",
         "fullName": "Lionel Scaloni",
         "team": "Free",
-        "nationality": "",
+        "nationality": "Argentine",
         "type": "Default",
-        "age": "",
-        "coachingAffinity": "None",
+        "age": 47,
+        "coachingAffinity": "DF Players",
         "teamPlaystyle": {
             "Possession Game": 87,
             "Quick Counter": 86,
@@ -813,7 +1076,8 @@
             "Out Wide": 38,
             "Long Ball": 37
         },
-        "imageUrl": "https://raw.githubusercontent.com/usmoxan-design/efinfo_data/refs/heads/main/manager_images/scaloni.png"
+        "imageUrl": "https://raw.githubusercontent.com/usmoxan-design/efinfo_data/refs/heads/main/manager_images/scaloni.png",
+        "boosters": []
     },
     {
         "name": "Olympio H.",
@@ -830,6 +1094,12 @@
             "Out Wide": 45,
             "Long Ball": 86
         },
-        "imageUrl": "https://raw.githubusercontent.com/usmoxan-design/efinfo_data/refs/heads/main/manager_images/olympio.png"
+        "imageUrl": "https://raw.githubusercontent.com/usmoxan-design/efinfo_data/refs/heads/main/manager_images/olympio.png",
+        "boosters": [
+            {
+                "name": "Kicking Power",
+                "value": "+1"
+            }
+        ]
     }
 ]
