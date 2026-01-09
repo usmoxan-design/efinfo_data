@@ -26,6 +26,33 @@
             }
         ]
     },
+         {
+        "name": "Xabi Alonso",
+        "fullName": "Xabi Alonso",
+        "team": "Free",
+        "nationality": "Spanish",
+        "type": "Default",
+        "age": 44,
+        "coachingAffinity": "MF Players",
+        "teamPlaystyle": {
+            "Possession Game": 71,
+            "Quick Counter": 89,
+            "Long Ball Counter": 54,
+            "Out Wide": 89,
+            "Long Ball": 56
+        },
+        "imageUrl": "https://raw.githubusercontent.com/usmoxan-design/efinfo_data/refs/heads/main/manager_images/XABINEW.png",
+        "boosters": [
+            {
+                "name": "Ball Control",
+                "value": "+1"
+            },
+             {
+                "name": "Finishing",
+                "value": "+1"
+            }
+        ]
+    },
     {
         "name": "Ståle Solbakken",
         "fullName": "Ståle Solbakken",
